@@ -1,3 +1,17 @@
+<!-- using https://liveweave.com/ -->
+
 <h2>Precio moneda (BTC): <input type="number"></h2>
-<h2>Ganancia:<input type="range" min="1" max="100" value="21"> <input type="number" value=21>% </h2>
+<h2>Ganancia:<input class="gainRange" type="range" min="0" max="100" value="21"> <input id="gain" type="number" min="0" max="100" value=21>% </h2>
 <h2>Vender en: <input type="number" readonly> <input type="button" value="Calcular valor de venta"> </h2>
+
+<script>
+var gainRange = document.querySelector('.gainRange');
+var gainField = document.getElementById('gain');
+
+gainRange.addEventListener('input', function (e) {
+  gainField.value = e.target.value;
+});
+gainField.addEventListener('input', function (e) {
+  gainRange.value = e.target.value;
+});
+</script>
