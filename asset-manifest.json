@@ -1,28 +1,23 @@
 {
   "files": {
     "main.css": "/TradingCalc/static/css/main.7d180cbf.chunk.css",
-    "main.js": "/TradingCalc/static/js/main.67ea3eb5.chunk.js",
-    "main.js.map": "/TradingCalc/static/js/main.67ea3eb5.chunk.js.map",
-    "runtime-main.js": "/TradingCalc/static/js/runtime-main.559fc052.js",
-    "runtime-main.js.map": "/TradingCalc/static/js/runtime-main.559fc052.js.map",
-    "static/js/2.49e355b2.chunk.js": "/TradingCalc/static/js/2.49e355b2.chunk.js",
-    "static/js/2.49e355b2.chunk.js.map": "/TradingCalc/static/js/2.49e355b2.chunk.js.map",
-    "static/js/3.7bef523b.chunk.js": "/TradingCalc/static/js/3.7bef523b.chunk.js",
-    "static/js/3.7bef523b.chunk.js.map": "/TradingCalc/static/js/3.7bef523b.chunk.js.map",
-    "static/js/4.52b8957e.chunk.js": "/TradingCalc/static/js/4.52b8957e.chunk.js",
-    "static/js/4.52b8957e.chunk.js.map": "/TradingCalc/static/js/4.52b8957e.chunk.js.map",
-    "static/js/5.e66830f0.chunk.js": "/TradingCalc/static/js/5.e66830f0.chunk.js",
-    "static/js/5.e66830f0.chunk.js.map": "/TradingCalc/static/js/5.e66830f0.chunk.js.map",
+    "main.js": "/TradingCalc/static/js/main.cbe58132.chunk.js",
+    "main.js.map": "/TradingCalc/static/js/main.cbe58132.chunk.js.map",
+    "runtime-main.js": "/TradingCalc/static/js/runtime-main.b8325e28.js",
+    "runtime-main.js.map": "/TradingCalc/static/js/runtime-main.b8325e28.js.map",
+    "static/js/2.6afeefdf.chunk.js": "/TradingCalc/static/js/2.6afeefdf.chunk.js",
+    "static/js/2.6afeefdf.chunk.js.map": "/TradingCalc/static/js/2.6afeefdf.chunk.js.map",
+    "static/js/3.ea450c4e.chunk.js": "/TradingCalc/static/js/3.ea450c4e.chunk.js",
+    "static/js/3.ea450c4e.chunk.js.map": "/TradingCalc/static/js/3.ea450c4e.chunk.js.map",
     "index.html": "/TradingCalc/index.html",
     "static/css/main.7d180cbf.chunk.css.map": "/TradingCalc/static/css/main.7d180cbf.chunk.css.map",
-    "static/js/2.49e355b2.chunk.js.LICENSE.txt": "/TradingCalc/static/js/2.49e355b2.chunk.js.LICENSE.txt",
-    "static/js/3.7bef523b.chunk.js.LICENSE.txt": "/TradingCalc/static/js/3.7bef523b.chunk.js.LICENSE.txt",
+    "static/js/2.6afeefdf.chunk.js.LICENSE.txt": "/TradingCalc/static/js/2.6afeefdf.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/TradingCalc/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.559fc052.js",
-    "static/js/3.7bef523b.chunk.js",
+    "static/js/runtime-main.b8325e28.js",
+    "static/js/2.6afeefdf.chunk.js",
     "static/css/main.7d180cbf.chunk.css",
-    "static/js/main.67ea3eb5.chunk.js"
+    "static/js/main.cbe58132.chunk.js"
   ]
 }
