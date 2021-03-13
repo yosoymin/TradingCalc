@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/TradingCalc/static/css/main.7d180cbf.chunk.css",
-    "main.js": "/TradingCalc/static/js/main.cbe58132.chunk.js",
-    "main.js.map": "/TradingCalc/static/js/main.cbe58132.chunk.js.map",
-    "runtime-main.js": "/TradingCalc/static/js/runtime-main.b8325e28.js",
-    "runtime-main.js.map": "/TradingCalc/static/js/runtime-main.b8325e28.js.map",
-    "static/js/2.6afeefdf.chunk.js": "/TradingCalc/static/js/2.6afeefdf.chunk.js",
-    "static/js/2.6afeefdf.chunk.js.map": "/TradingCalc/static/js/2.6afeefdf.chunk.js.map",
-    "static/js/3.ea450c4e.chunk.js": "/TradingCalc/static/js/3.ea450c4e.chunk.js",
-    "static/js/3.ea450c4e.chunk.js.map": "/TradingCalc/static/js/3.ea450c4e.chunk.js.map",
+    "main.js": "/TradingCalc/static/js/main.0289ee16.chunk.js",
+    "main.js.map": "/TradingCalc/static/js/main.0289ee16.chunk.js.map",
+    "runtime-main.js": "/TradingCalc/static/js/runtime-main.4b0ba2cd.js",
+    "runtime-main.js.map": "/TradingCalc/static/js/runtime-main.4b0ba2cd.js.map",
+    "static/js/2.cd53afde.chunk.js": "/TradingCalc/static/js/2.cd53afde.chunk.js",
+    "static/js/2.cd53afde.chunk.js.map": "/TradingCalc/static/js/2.cd53afde.chunk.js.map",
+    "static/js/3.97ea3dfc.chunk.js": "/TradingCalc/static/js/3.97ea3dfc.chunk.js",
+    "static/js/3.97ea3dfc.chunk.js.map": "/TradingCalc/static/js/3.97ea3dfc.chunk.js.map",
     "index.html": "/TradingCalc/index.html",
     "static/css/main.7d180cbf.chunk.css.map": "/TradingCalc/static/css/main.7d180cbf.chunk.css.map",
-    "static/js/2.6afeefdf.chunk.js.LICENSE.txt": "/TradingCalc/static/js/2.6afeefdf.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/TradingCalc/static/media/logo.6ce24c58.svg"
+    "static/js/2.cd53afde.chunk.js.LICENSE.txt": "/TradingCalc/static/js/2.cd53afde.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b8325e28.js",
-    "static/js/2.6afeefdf.chunk.js",
+    "static/js/runtime-main.4b0ba2cd.js",
+    "static/js/2.cd53afde.chunk.js",
     "static/css/main.7d180cbf.chunk.css",
-    "static/js/main.cbe58132.chunk.js"
+    "static/js/main.0289ee16.chunk.js"
   ]
 }
