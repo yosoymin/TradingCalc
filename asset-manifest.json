@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/TradingCalc/static/css/main.7d180cbf.chunk.css",
-    "main.js": "/TradingCalc/static/js/main.0289ee16.chunk.js",
-    "main.js.map": "/TradingCalc/static/js/main.0289ee16.chunk.js.map",
-    "runtime-main.js": "/TradingCalc/static/js/runtime-main.4b0ba2cd.js",
-    "runtime-main.js.map": "/TradingCalc/static/js/runtime-main.4b0ba2cd.js.map",
-    "static/js/2.cd53afde.chunk.js": "/TradingCalc/static/js/2.cd53afde.chunk.js",
-    "static/js/2.cd53afde.chunk.js.map": "/TradingCalc/static/js/2.cd53afde.chunk.js.map",
-    "static/js/3.97ea3dfc.chunk.js": "/TradingCalc/static/js/3.97ea3dfc.chunk.js",
-    "static/js/3.97ea3dfc.chunk.js.map": "/TradingCalc/static/js/3.97ea3dfc.chunk.js.map",
+    "main.js": "/TradingCalc/static/js/main.3520ec3f.chunk.js",
+    "main.js.map": "/TradingCalc/static/js/main.3520ec3f.chunk.js.map",
+    "runtime-main.js": "/TradingCalc/static/js/runtime-main.765e3274.js",
+    "runtime-main.js.map": "/TradingCalc/static/js/runtime-main.765e3274.js.map",
+    "static/js/2.15261c1f.chunk.js": "/TradingCalc/static/js/2.15261c1f.chunk.js",
+    "static/js/2.15261c1f.chunk.js.map": "/TradingCalc/static/js/2.15261c1f.chunk.js.map",
+    "static/js/3.cc8aad91.chunk.js": "/TradingCalc/static/js/3.cc8aad91.chunk.js",
+    "static/js/3.cc8aad91.chunk.js.map": "/TradingCalc/static/js/3.cc8aad91.chunk.js.map",
     "index.html": "/TradingCalc/index.html",
     "static/css/main.7d180cbf.chunk.css.map": "/TradingCalc/static/css/main.7d180cbf.chunk.css.map",
-    "static/js/2.cd53afde.chunk.js.LICENSE.txt": "/TradingCalc/static/js/2.cd53afde.chunk.js.LICENSE.txt"
+    "static/js/2.15261c1f.chunk.js.LICENSE.txt": "/TradingCalc/static/js/2.15261c1f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4b0ba2cd.js",
-    "static/js/2.cd53afde.chunk.js",
+    "static/js/runtime-main.765e3274.js",
+    "static/js/2.15261c1f.chunk.js",
     "static/css/main.7d180cbf.chunk.css",
-    "static/js/main.0289ee16.chunk.js"
+    "static/js/main.3520ec3f.chunk.js"
   ]
 }
